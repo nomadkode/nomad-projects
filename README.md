@@ -1,3 +1,3 @@
 # components-js
 
-good to go components for website
+good to go useful components for website using vanilla HTML, CSS & JS
