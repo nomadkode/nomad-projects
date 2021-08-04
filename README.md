@@ -1,3 +1,3 @@
-# components-js
+# Nomad Projects
 
-all my projects using vanilla HTML, CSS & JS in one repository.
+collection of all my small projects using vanilla HTML, CSS & JS in one repository.
