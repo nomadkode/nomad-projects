@@ -1,3 +1,3 @@
 # components-js
 
-good to go useful components for website using vanilla HTML, CSS & JS
+all my projects using vanilla HTML, CSS & JS in one repository.
